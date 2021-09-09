@@ -1,6 +1,4 @@
-const apiKey = "6TBjppOPCiNFquWcRgTB83MQEUNNcJhoEipbdat7";
-const apodUrl = "https://api.nasa.gov/planetary/apod";
-const afeedUrl = "https://api.nasa.gov/neo/rest/v1/feed";
+Our url
 
 
 function handleAFeedData({element_count, near_earth_objects}, afeedElement, afeedTable){
